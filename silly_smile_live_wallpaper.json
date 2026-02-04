@@ -13,7 +13,7 @@
       "enable_app_protection": false,
       "base64_license_key": "",
       "redirect_url": "",
-      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html"
+      "privacy_policy_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/refs/heads/main/privacy_policy_silly.html"
     }
   ],
   "ads": [
@@ -502,4 +502,5 @@
       "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
     }
   ]
+
 }
